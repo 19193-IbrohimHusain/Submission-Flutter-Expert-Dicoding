@@ -1,0 +1,28 @@
+{
+  "dates": {
+    "maximum": "2022-03-24",
+    "minimum": "2022-03-02"
+  },
+  "page": 1,
+  "results": [
+    {
+      "backdrop_path": "/baMG7mRtR52eLHz4b1OZchr1Jwb.jpg",
+      "genre_ids": [
+80,
+18
+      ],
+      "id": 63351,
+      "original_language": "en",
+      "original_name": "Narcos",
+      "overview": "Narcos chronicles the life and death of drug lord Pablo Escobar the ruthless boss of the Medellin Cartel and a known terrorist who was also a congressman, a family man and revered by the poor as a new Robin Hood.",
+      "popularity": 12.106431,
+      "poster_path": "/3CEu32C7udZzIjZcrKmdHcRB1ZN.jpg",
+      "first_air_date": "2015-08-28",
+      "name": "Narcos",
+      "vote_average": 7.33,
+      "vote_count": 65
+    }
+  ],
+  "total_results": 192,
+  "total_pages": 10
+}
